@@ -19,8 +19,8 @@
     <img src="https://img.shields.io/badge/Download Now-Google Drive-7289da.svg?style=for-the-badge&logo=Google">
   </a>
 </div>
-<br><br><br?
+<br><br><br>
 
 ## Whats RAC?
   
-  RAC Stands for Roblox Anti-Cheat
+  RAC Stands for Roblox Anti-Cheat, 
